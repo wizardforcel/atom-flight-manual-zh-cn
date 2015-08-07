@@ -9,3 +9,7 @@
 ![](http://7u2hdm.com1.z0.glb.clouddn.com/qr_alipay.png)
 
 ![](http://7u2hdm.com1.z0.glb.clouddn.com/qr_wechat.png)
+
+## 协议 ##
+
+[CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/)
