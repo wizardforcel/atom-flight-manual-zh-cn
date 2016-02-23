@@ -1,0 +1,9 @@
+{
+    "name": "Atom飞行手册翻译",
+    "introduction": "Atom 不仅仅是一个文本编辑器，它更像是一个待完善的系统。",
+    "path":{
+      "images" : "img",
+      "toc" : "SUMMARY.md"
+    }
+
+}
