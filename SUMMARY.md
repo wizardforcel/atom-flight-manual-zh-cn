@@ -1,3 +1,4 @@
+* [介绍](README.md)
 * [新手入门](1.md)
   * [为什么选择Atom？](1.1-Why-Atom.md)
   * [安装Atom](1.2-Installing-Atom.md)

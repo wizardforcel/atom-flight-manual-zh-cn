@@ -9,11 +9,7 @@
 
 ## 赞助我 ##
 
-扫描以下二维码之一来向我付款：
-
-![](http://7u2hdm.com1.z0.glb.clouddn.com/qr_alipay.png)
-
-![](http://7u2hdm.com1.z0.glb.clouddn.com/qr_wechat.png)
+![](img/qr_alipay.png)
 
 ## 协议 ##
 
